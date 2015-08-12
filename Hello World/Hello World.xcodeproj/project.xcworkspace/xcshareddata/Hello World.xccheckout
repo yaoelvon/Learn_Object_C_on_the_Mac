@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8CBA79BF-8BEE-420A-A91A-EFB911EEEB1E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EDD8F29FF75831A55E28E01AD12DDA2A7BD44201</key>
+		<string>github.com:/bear2flymoon/Learn_Object_C_on_the_Mac.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hello World/Hello World.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EDD8F29FF75831A55E28E01AD12DDA2A7BD44201</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:/bear2flymoon/Learn_Object_C_on_the_Mac.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EDD8F29FF75831A55E28E01AD12DDA2A7BD44201</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EDD8F29FF75831A55E28E01AD12DDA2A7BD44201</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Learn_Object_C_on_the_Mac</string>
+		</dict>
+	</array>
+</dict>
+</plist>
